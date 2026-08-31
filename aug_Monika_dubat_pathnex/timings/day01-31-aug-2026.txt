@@ -1,1 +1,6 @@
 Day01-31-aug-2026.txt
+Today's Work:
+Learned Git
+Created github repository 
+Learned git commit 
+Learned git push 
